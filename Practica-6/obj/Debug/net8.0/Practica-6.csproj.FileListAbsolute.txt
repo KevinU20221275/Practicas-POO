@@ -1,0 +1,15 @@
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.AssemblyInfoInputs.cache
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.AssemblyInfo.cs
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.csproj.CoreCompileInputs.cache
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.sourcelink.json
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/bin/Debug/net8.0/Practica-6
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/bin/Debug/net8.0/Practica-6.deps.json
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/bin/Debug/net8.0/Practica-6.runtimeconfig.json
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/bin/Debug/net8.0/Practica-6.dll
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/bin/Debug/net8.0/Practica-6.pdb
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.dll
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/refint/Practica-6.dll
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.pdb
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/Practica-6.genruntimeconfig.cache
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-6/obj/Debug/net8.0/ref/Practica-6.dll
