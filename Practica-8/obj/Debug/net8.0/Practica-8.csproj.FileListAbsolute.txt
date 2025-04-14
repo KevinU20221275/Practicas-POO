@@ -1,0 +1,15 @@
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/bin/Debug/net8.0/Practica-8
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/bin/Debug/net8.0/Practica-8.deps.json
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/bin/Debug/net8.0/Practica-8.runtimeconfig.json
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/bin/Debug/net8.0/Practica-8.dll
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/bin/Debug/net8.0/Practica-8.pdb
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.AssemblyInfoInputs.cache
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.AssemblyInfo.cs
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.csproj.CoreCompileInputs.cache
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.sourcelink.json
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.dll
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/refint/Practica-8.dll
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.pdb
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/Practica-8.genruntimeconfig.cache
+/home/kevin/Documentos/GitHub/Practicas-POO/Practica-8/obj/Debug/net8.0/ref/Practica-8.dll
